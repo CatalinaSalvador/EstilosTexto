@@ -1,0 +1,24 @@
+.Titulo {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+span{
+    color: aqua;
+}
+.Subtitulo{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    font-weight: lighter;
+}
+.SubSubtitulo{
+    background-color: rgb(140, 158, 196);
+    color: rgb(57, 37, 73);
+    text-align: right;
+    text-decoration:underline ;
+    font-family: cursive;
+    font-weight: lighter;
+}
